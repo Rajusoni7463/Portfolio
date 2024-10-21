@@ -1,0 +1,53 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Expert in crafting intuitive and efficient web solutions using React.js, Redux.js, HTML, CSS, and JavaScript, with a deep understanding of state management, component architecture, and responsive design principles."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Skilled in developing high-performance, secure, and scalable backend systems using Node.js, Express.js, and MongoDB, with a focus on efficient database design, API integration, and server-side logic"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Data Structure",
+      "description": "Knowledgeable in implementing essential data structures and algorithms to tackle programming problems, with a focus on enhancing code efficiency and developing a solid foundation in computational thinking."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "DBMS",
+      "description": "Competent in utilizing relational databases with SQL, focusing on data organization, basic query optimization, and maintaining data integrity while developing practical database solutions."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/docmedx1.jpg",
+      "title": "DocMedx",
+      "description": "Developed a full-stack Doctor Appointment Booking platform using the MERN stack, enabling patients to seamlessly book, reschedule, and cancel appointments while allowing doctors to manage bookings and integrate UPI payments for fees.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ]
+  
+  
+}
