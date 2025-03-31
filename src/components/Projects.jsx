@@ -164,11 +164,11 @@ const projects = [
   },
   {
     id: 4,
-    title: "Blog App",
-    description: "A blog platform that showcases the latest articles and featured posts, allowing users to explore, read, and engage with insightful content.",
-    image: "/blog.jpg",
-    tags: ["Flutter", "API Integration", "Getx"],
-    liveUrl: "https://example.com",
+    title: "RTF Web App",
+    description: "sophisticated platform enabling seamless insurance policy comparison, acquisition, and management. Implemented real-time risk assessment, secure payment integration, and automated claims processing using React, Node.js, Express, and MongoDB.",
+    image: "/rtf.png",
+    tags: ["React.js", "Node.js", "Redux.js","Nest.js","MySql"],
+    liveUrl: "https://www.rtfinsurance.in/",
     githubUrl: "https://github.com/Rajusoni7463",
   },
 ]
